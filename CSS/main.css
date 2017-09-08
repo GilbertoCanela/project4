@@ -1,0 +1,42 @@
+body{
+	background-image: url("../Images/carFlags3.png");
+
+}
+
+.content{
+	width: 80%;
+	height: 200vh;
+	background-color: black;
+	margin: 0 auto;
+	border: 5px double gray;
+
+}
+
+h2{
+	text-align: center;
+}
+
+p, a, h1, h2, h3{
+	color: white;
+}
+
+#menuBar{
+	background-color: black;
+	width: 100%;
+}
+
+#banner{
+	width: 100%;
+}
+
+a{
+	margin-right: 20px;
+}
+
+.menuIco{
+	height: 20px;
+}
+
+#chart{
+	width: 100%;
+}
